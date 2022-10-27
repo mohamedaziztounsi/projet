@@ -4,9 +4,9 @@
 
  ## présentation 
 
- ceci est un présentation de projet de analyse d'une base donnée de TV , halftime shows et les grands jeux .
-<img src='img/shark.jpg' width='280px'>
- on a utilisé la bibliothéque pandas 
+ <p>ceci est un présentation de projet de analyse d'une base donnée de TV , halftime shows et les grands jeux .</p>
+<img src='img/shark.jpg' width='340px'>
+<p> on a utilisé la bibliothéque pandas </p>
 
  <img src='img/pandasseries_redo.png' width='190px'> 
 
