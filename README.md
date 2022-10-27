@@ -18,17 +18,46 @@
 
 <h1>   full database </h1>
   Summary of the TV data to inspect and Summary of the halftime musician data to inspect
+<table>
+ <tr>
+    <td>super_bowl</td>
+    <td>53 non-null int64</td>  
+  </tr>
+  <tr>
+    <td>network </td>
+    <td>53 non-null object</td>
+  </tr>
+  <tr>
+    <td>avg_us_viewers </td>
+    <td>53 non-null int64</td>
+  </tr>
+  <tr>
+    <td>total_us_viewers </td>
+    <td>15 non-null float64</td>
+  </tr>
+  <tr>
+    <td>rating_household</td>
+    <td> 53 non-null float64</td>
+  </tr>
+  <tr>
+    <td>share_household</td>
+    <td>53 non-null int64</td>
+  </tr>
+  </tr>
+  <tr>
+    <td>rating_18_49</td>
+    <td> 15 non-null float64</td>
+  </tr>
+  <tr>
+    <td>share_18_49</td>
+    <td>6 non-null float64</td>
+  </tr>
+  <tr>
+    <td>ad_cost</td>
+    <td>53 non-null int64</td>
+  </tr>
+  </table>
 
- 
-<p>super_bowl         | 53 non-null int64</p>
-<p>network            | 53 non-null object</p>
-<p>avg_us_viewers     | 53 non-null int64</p>
-<p>total_us_viewers   | 15 non-null float64</p>
-<p>rating_household   | 53 non-null float64</p>
-<p>share_household    | 53 non-null int64</p>
-<p>rating_18_49       | 15 non-null float64</p>
-<p>share_18_49        | 6 non-null float64</p>
-<p>ad_cost            | 53 non-null int64</p>
 
 <h3>we user also matplotlib in this project </h3>
 
