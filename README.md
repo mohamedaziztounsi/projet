@@ -20,16 +20,15 @@
   Summary of the TV data to inspect and Summary of the halftime musician data to inspect
 
  
-  super_bowl       | 53 non-null int64
-
-network            | 53 non-null object
-avg_us_viewers     | 53 non-null int64
-total_us_viewers   | 15 non-null float64
-rating_household   | 53 non-null float64
-share_household    | 53 non-null int64
-rating_18_49       | 15 non-null float64
-share_18_49        | 6 non-null float64
-ad_cost            | 53 non-null int64
+<p>super_bowl         | 53 non-null int64</p>
+<p>network            | 53 non-null object</p>
+<p>avg_us_viewers     | 53 non-null int64</p>
+<p>total_us_viewers   | 15 non-null float64</p>
+<p>rating_household   | 53 non-null float64</p>
+<p>share_household    | 53 non-null int64</p>
+<p>rating_18_49       | 15 non-null float64</p>
+<p>share_18_49        | 6 non-null float64</p>
+<p>ad_cost            | 53 non-null int64</p>
 
 <h3>we user also matplotlib in this project </h3>
 
@@ -38,17 +37,17 @@ ad_cost            | 53 non-null int64
 <img src='img/matplot.jpg'>
 
 
-Plot a histogram of combined points
+<p>Plot a histogram of combined points</p>
 <img src='img/Capture3.PNG' width='360px'>
-Displaying the Super Bowls with the highest and lowest combined scores
+<p>Displaying the Super Bowls with the highest and lowest combined scores</p>
 
 <img src='img/Capture4.PNG' width='480px'>
 
-Plot a histogram of point differences
+<p>Plot a histogram of point differences</p>
 
 <img src='img/Capture5.PNG' width='360px'>
 
-Displaying the closest games and biggest blowouts
+<p>Displaying the closest games and biggest blowouts</p>
 
 <img src='img/Capture6.PNG' width='480px'>
 
@@ -57,7 +56,7 @@ Displaying the closest games and biggest blowouts
 <img src='img/Capture7.PNG' width='480px'>
 
  <h4>Viewership and the ad industry over time</h4>
- Creating a figure with 3x1 subplot and activate the top subplot
+ <p>Creating a figure with 3x1 subplot and activate the top subplot</p>
 
 <img src='img/Capture8.PNG' width='480px'>
 
